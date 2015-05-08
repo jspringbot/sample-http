@@ -17,7 +17,7 @@ Initial Run to fetch all dependencies:
 ```
 - View the generated report and logs from browser.
 
-## Copyright and license
+### Copyright and license
 
 Copyright 2012 JSpringBot
 

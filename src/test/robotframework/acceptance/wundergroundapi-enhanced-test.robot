@@ -1,6 +1,6 @@
 *** Settings ***
 Library     JSpringBotGlobal
-Resource    ../http-resources.txt
+Resource    ../http-resources.robot
 
 *** Test Cases ***
 Wunderground API XML Test

@@ -6,5 +6,6 @@
                            http://www.springframework.org/schema/beans/spring-beans.xsd">
 
   <import resource="classpath:spring/spring-http.xml"/>
+  <import resource="classpath:spring/spring-prettyprint.xml"/>
 
 </beans>

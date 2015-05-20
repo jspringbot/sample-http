@@ -10,12 +10,12 @@ Create and Invoke Request
 
 Response Status Code Should Be OK
     [Documentation]     Verifies that the response status code is 200
-    HTTP Response Status Code Should Be Equal To     200
+    HTTP Response Status Code Should Be Equal To            200
 
 Response Header Content Type Should Be Json
-    ${contentType}=     Get HTTP Response Header    Content-Type
+    ${contentType}=     Get HTTP Response Header            Content-Type
     Should Be Equal     application/json; charset=UTF-8     ${contentType}
 
 Response Header Content Type Should Be XML
-    ${contentType}=     Get HTTP Response Header    Content-Type
-    Should Be Equal     text/xml; charset=UTF-8     ${contentType}
+    ${contentType}=     Get HTTP Response Header            Content-Type
+    Should Be Equal     text/xml; charset=UTF-8             ${contentType}

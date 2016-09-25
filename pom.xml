@@ -30,8 +30,8 @@
   </parent>
 
   <artifactId>sample-http</artifactId>
+  <version>1.5-SNAPSHOT</version>
   <name>sample-http</name>
-  <packaging>jar</packaging>
 
   <licenses>
     <license>

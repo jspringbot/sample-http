@@ -1,5 +1,6 @@
+sample-http [![Build Status](https://travis-ci.org/jspringbot/sample-http.svg?branch=master)](https://travis-ci.org/jspringbot/sample-http)
+====
 jSpringBot Sample HTTP
-=======
 
 ### Introduction
 
